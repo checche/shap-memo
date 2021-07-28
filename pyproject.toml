@@ -13,6 +13,9 @@ interpret = "^0.2.6"
 xgboost = "^1.4.2"
 shap = "^0.39.0"
 matplotlib = "^3.4.2"
+torch = "^1.9.0"
+transformers = "^4.9.1"
+nlp = "^0.4.0"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^3.9.2"
